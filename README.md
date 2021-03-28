@@ -8,4 +8,4 @@ This project provides an empirical analysis on performance of the sparse regress
 
 2. [Literature Review.pdf](https://github.com/longngo204/sparse-regression/blob/main/Literature%20Review.pdf): a comprehensive review on the research that studies sparse regression implemented by resarchers from MIT
 
-3. [Final.rmd](https://github.com/longngo204/sparse-regression/blob/main/final%201.Rmd): R notebook shows how this project conducted in R 
+3. [Final.rmd](https://github.com/longngo204/sparse-regression/blob/main/Final.Rmd): R notebook shows how this project conducted in R 
